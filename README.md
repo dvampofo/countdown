@@ -1,11 +1,11 @@
 # TTC VIDEO COUNTDOWN. 
 
-York University Subway Station open on **DECEMBER 17, 2017**.
+York University Subway Station opening on **DECEMBER 17, 2017**.
 
 ![YUSUBWAY2](https://github.com/dvampofo/countdown/blob/master/assets/images/accoladeeast.png?raw=true)
 
 
-TTC Countdown Timer was made with HTML, CSS3, Javascript, Bootstrap and more. 
+This TTC Countdown Timer was made with HTML, CSS3, Javascript, Bootstrap and more. 
 
 This **SLIDESHOW** works for **DESKTOP ONLY**. Youtube documentation explains why AUTOPLAY doesn't work on mobile devices.
 
