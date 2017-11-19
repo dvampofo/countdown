@@ -7,7 +7,7 @@ York University Subway Station opening on **DECEMBER 17, 2017**.
 
 This TTC Countdown Timer was made with HTML, CSS3, Javascript, Bootstrap and more. 
 
-This **SLIDESHOW** works for **DESKTOP ONLY**. Youtube documentation explains why AUTOPLAY doesn't work on mobile devices.
+This **VIDEO** works for **DESKTOP ONLY**. Youtube documentation explains why AUTOPLAY doesn't work on mobile devices.
 
 > The HTML5 <video> element, in certain mobile browsers (such as Chrome and Safari), only allows playback to take place if it's initiated by a user interaction (such as tapping on the player). Here's an excerpt from Apple's documentation:
 > ```"Warning: To prevent unsolicited downloads over cellular networks at the user’s expense, embedded media cannot be played automatically in Safari on iOS — the user always initiates playback."```
