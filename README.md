@@ -18,6 +18,6 @@ This **VIDEO** works for **DESKTOP ONLY**. Youtube documentation explains why AU
 To see live demo, click [**HERE**]( https://dvampofo.github.io/countdown/).
 
 
-
+# ACKNOWLEDGEMENTS
 
 Credit to **Daniel Coluch** and **Youngjin Ko** for filming and photographing the York University Subway Station.
