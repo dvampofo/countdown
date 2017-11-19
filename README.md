@@ -20,4 +20,4 @@ To see live demo, click [**HERE**]( https://dvampofo.github.io/countdown/).
 
 
 
-Credit to Daniel Coluch and Youngjin Ko for filming and photographing the York University Subway Station.
+Credit to **Daniel Coluch** and **Youngjin Ko** for filming and photographing the York University Subway Station.
