@@ -2,7 +2,7 @@
 
 York University Subway Station opening on **DECEMBER 17, 2017**.
 
-![YUSUBWAY2](https://github.com/dvampofo/countdown/blob/master/assets/images/acerooftop.png?raw=true)
+![YUSUBWAY2](https://github.com/dvampofo/countdown/blob/master/assets/images/entrancephoto.png?raw=true)
 
 
 This TTC Countdown Timer was made with HTML, CSS3, Javascript, Bootstrap and more. 
